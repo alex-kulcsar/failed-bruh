@@ -1,0 +1,56 @@
+{
+    "name": "Failed Bruh :(",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0",
+        "arcade-sprite-util": "github:jwunderl/arcade-sprite-util#v0.4.1",
+        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.2.1",
+        "tilemaps": "github:microsoft/pxt-tilemaps#v1.12.0",
+        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2",
+        "Extra Effects": "github:AlexSzeto/extra-effects#v3.1.0",
+        "sound effects": "github:klausw3/pxt-sound-effects#v1.2.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.56",
+        "tag": "v1.12.56",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/415ef2df2ac233e8d214fef5f4ea26f2f5de232a",
+        "target": "1.12.56",
+        "pxt": "8.5.67",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#FFFFFF",
+        "#FF2121",
+        "#F787BA",
+        "#F47D34",
+        "#FFF609",
+        "#46A324",
+        "#5DF024",
+        "#003FAD",
+        "#76CDF9",
+        "#8E2EC4",
+        "#BFBFBF",
+        "#5C406c",
+        "#E5CDC4",
+        "#8C4526",
+        "#000000"
+    ]
+}
